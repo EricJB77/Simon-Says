@@ -7,7 +7,7 @@ let compTurn;
 let intervalID;
 let strict = false;
 let noise = true;
-let on = false;
+let on = true;
 let win;
 
 const turnCounter = document.querySelector("#turn");
